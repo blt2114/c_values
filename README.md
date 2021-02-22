@@ -1,4 +1,4 @@
-# Confidently Comparing Estimators with the c-value
+# [Confidently Comparing Estimators with the c-value](https://arxiv.org/abs/2102.09705)
 ## Brian L. Trippe, Sameer K. Deshpande, Tamara Broderick
 
 * `data/` contains raw data used in the applications in section 6.
